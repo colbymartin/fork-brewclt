@@ -71,7 +71,7 @@ app.component('header', {
     controller: 'MainController',
 });
 
-app.component('footer', {
+app.component('brewfooter', {
     templateUrl: 'templates/footer.html',
     controller: 'MainController',
 });
